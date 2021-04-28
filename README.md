@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 ### 👯 I’m looking to collaborate on theoritical computer science research project.
 ### 🤔 I’m looking for help with learning English
 <!-- - 💬 Ask me about ... -->
-### 📫 How to reach me: email: lixinyikayla@gmai.com
+### 📫 How to reach me: email: lixinyikayla@gmail.com
 <!-- - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... -->
 
