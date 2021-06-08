@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 ### 🔭 I’m currently working on Azul Game Design (Java)
 <!-- - 🌱 I’m currently learning ... -->
 ### 👯 I’m looking to collaborate on theoritical computer science research project.
-### 🤔 I’m looking for help with learning English
 <!-- - 💬 Ask me about ... -->
 ### 📫 How to reach me: email: lixinyikayla@gmail.com
 <!-- - 😄 Pronouns: ... 
