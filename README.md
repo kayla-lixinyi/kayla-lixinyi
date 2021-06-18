@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 -->
 
-### 🔭 I’m currently working on Azul Game Design (Java)
+### 🔭 I’m currently working on 
 <!-- - 🌱 I’m currently learning ... -->
-### 👯 I’m looking to collaborate on theoritical computer science research project.
+### 👯 I’m looking to collaborate on 
 <!-- - 💬 Ask me about ... -->
-### 📫 How to reach me: email: lixinyikayla@gmail.com
+### 📫 How to reach me: email: 
 <!-- - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... -->
 
